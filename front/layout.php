@@ -5,7 +5,11 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Rahnuma</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+<<<<<<< HEAD
 	<meta name="description" content=" HTML5 Website Template by freehtml5.co" />
+=======
+	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
+>>>>>>> 8331e014b037b86b42ab227f01382d3d12b0acde
 	<meta name="keywords" content="html5, bootstrap, html5, css3, mobile first, responsive" />
 	<meta name="author" content="html5" />
 
@@ -54,4 +58,8 @@
 	<![endif]-->
 
 	</head>
+<<<<<<< HEAD
 	<body>
+=======
+	<body>
+>>>>>>> 8331e014b037b86b42ab227f01382d3d12b0acde

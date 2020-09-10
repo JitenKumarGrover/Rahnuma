@@ -33,7 +33,11 @@
 			   		</div>
 		   		</div>
 		   	</li>
+<<<<<<< HEAD
 		   	<li style="background-image: url(images/img_bg_1.jpg);">
+=======
+		   	<li style="background-image: url(images/img_bg_3.jpg);">
+>>>>>>> 8331e014b037b86b42ab227f01382d3d12b0acde
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="row">
@@ -195,7 +199,11 @@
 			<div class="row">
 				<div class="col-md-6 animate-box">
 					<div class="course">
+<<<<<<< HEAD
 						<a href="#" class="course-img" style="background-image: url(images/project-3.jpg);">
+=======
+						<a href="#" class="course-img" style="background-image: url(images/project-1.jpg);">
+>>>>>>> 8331e014b037b86b42ab227f01382d3d12b0acde
 						</a>
 						<div class="desc">
 							<h3><a href="#">Web Master</a></h3>
@@ -206,7 +214,11 @@
 				</div>
 				<div class="col-md-6 animate-box">
 					<div class="course">
+<<<<<<< HEAD
 						<a href="#" class="course-img" style="background-image: url(images/project-4.jpg);">
+=======
+						<a href="#" class="course-img" style="background-image: url(images/project-2.jpg);">
+>>>>>>> 8331e014b037b86b42ab227f01382d3d12b0acde
 						</a>
 						<div class="desc">
 							<h3><a href="#">Business &amp; Accounting</a></h3>
@@ -342,13 +354,39 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
+<<<<<<< HEAD
 						<a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+=======
+						<a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+>>>>>>> 8331e014b037b86b42ab227f01382d3d12b0acde
 						<div class="blog-text">
 							<h3><a href="#">Healty Lifestyle &amp; Living</a></h3>
 							<span class="posted_on">March. 15th</span>
 							<span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+<<<<<<< HEAD
 							<p><a href="#">Read More</a></p>
+=======
+>>>>>>> 8331e014b037b86b42ab227f01382d3d12b0acde
+						</div> 
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4">
+					<div class="fh5co-blog animate-box">
+<<<<<<< HEAD
+						<a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+=======
+						<a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+>>>>>>> 8331e014b037b86b42ab227f01382d3d12b0acde
+						<div class="blog-text">
+							<h3><a href="#">Healty Lifestyle &amp; Living</a></h3>
+							<span class="posted_on">March. 15th</span>
+							<span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+<<<<<<< HEAD
+							<p><a href="#">Read More</a></p>
+=======
+>>>>>>> 8331e014b037b86b42ab227f01382d3d12b0acde
 						</div> 
 					</div>
 				</div>
@@ -360,19 +398,10 @@
 							<span class="posted_on">March. 15th</span>
 							<span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+<<<<<<< HEAD
 							<p><a href="#">Read More</a></p>
-						</div> 
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4">
-					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
-						<div class="blog-text">
-							<h3><a href="#">Healty Lifestyle &amp; Living</a></h3>
-							<span class="posted_on">March. 15th</span>
-							<span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-							<p><a href="#">Read More</a></p>
+=======
+>>>>>>> 8331e014b037b86b42ab227f01382d3d12b0acde
 						</div> 
 					</div>
 				</div>
@@ -395,4 +424,8 @@
 	</div>
 
 
+<<<<<<< HEAD
 	<?php include("front/footer.php") ?>
+=======
+	<?php include("front/footer.php") ?>
+>>>>>>> 8331e014b037b86b42ab227f01382d3d12b0acde
