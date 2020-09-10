@@ -33,7 +33,7 @@
 			   		</div>
 		   		</div>
 		   	</li>
-		   	<li style="background-image: url(images/img_bg_3.jpg);">
+		   	<li style="background-image: url(images/img_bg_1.jpg);">
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="row">
