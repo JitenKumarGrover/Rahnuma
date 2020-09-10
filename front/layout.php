@@ -55,8 +55,4 @@
 	<![endif]-->
 
 	</head>
-<<<<<<< HEAD
 	<body>
-=======
-	<body>
->>>>>>> 8331e014b037b86b42ab227f01382d3d12b0acde
