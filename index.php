@@ -305,7 +305,7 @@
 		</div>
 	</div>
 
-	<div id="fh5co-blog">
+	<!-- <div id="fh5co-blog">
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
@@ -375,7 +375,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<div id="fh5co-register" style="background-image: url(images/img_bg_2.jpg);">
 		<div class="overlay"></div>
 		<div class="row">
