@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php include("front/headerblog.php"); ?>
 		
 	<?php include("front/nav.php"); ?>
